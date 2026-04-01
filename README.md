@@ -208,13 +208,15 @@ The `function` class contains some essential functions required for the implemen
 
 `Fig. 9(a)` uses the tree structures `petree1-4` and  `petree5-8`  and their corresponding pattern structures from `PETree.java`.
 
-`Fig. 9(b)` and `Fig. 9(b) ` use the tree structures `petree1,5 and 11` and their corresponding pattern structures from `PETree.java`.
+`Fig. 9(b)` and use the tree structures `petree9, 10 and 11` and their corresponding pattern structures from `PETree.java`.
 
-`Fig. 9(c)` uses the tree structure `petree1` and its corresponding pattern structure from `PETree.java`.
+`Fig. 10(a)` and `Fig. 10(b)` and use the tree structure `petree1` and its corresponding pattern structure from `PETree.java`.
 
-`Fig. 10(c)` and `Fig. 10(d)` use the tree structures `petree1`, `petree12`, and `petree13` and their corresponding pattern structures from `PETree.java`.
+`Fig. 10(c)` uses the tree structures `petree1`, `petree5`, and `petree12` and their corresponding pattern structures from `PETree.java`.
+
+`Fig. 10(d)` use the tree structures `petree2`, `petree13`, `petree14` and `petree15` and their corresponding pattern structures from `PETree.java`.
 
 `Fig. 11(a)` uses the tree structure `petree1` and its corresponding pattern structure from `PETree.java`.
 
-`Fig. 11(b)` uses the tree structures `petree12` and `petree13` and their corresponding pattern structures from `PETree.java`.
+`Fig. 11(b)` uses the tree structures `petree5` and `petree16` and their corresponding pattern structures from `PETree.java`.
 
